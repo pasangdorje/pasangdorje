@@ -7,7 +7,7 @@ And also an optimisitic, curious and well-focused developer. :sparkles: <br>
 
 
 I have done internships as a Frontend Developer [@LeapFrog Technology](https://www.lftechnology.com/) and currently working at[@Machnet Technologies](https://machnetinc.com/). 
-Besides coding, I like eating :eating: and sleeping :sleeping:
+Besides coding, I like eating :yum: and sleeping :sleeping:
 
 - :man_technologist: Code: HTML, CSS, Bootstrap, JavaScript, React, React-Redux, Java Springboot.
  
