@@ -1,6 +1,6 @@
 <h2> Hi, I'm Pasang Dorje Lama! <img src="https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media.giphy.com/media/3GYmecuz4ncOc/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/XymXANrzgI4k6FL6zr/giphy.gif" width="230">
 
 I am a React JS Developer.<br>
 And also an optimisitic, curious and well-focused developer. :sparkles: <br>
