@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2> Hi, I'm Pusendra! <img src="https://media.giphy.com/media/l0Iyn34fotpL8K9wI/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Pasang Dorje Lama! <img src="https://media.giphy.com/media/l0Iyn34fotpL8K9wI/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/3GYmecuz4ncOc/giphy.gif" width="230">
 
