@@ -6,10 +6,10 @@ I am a React JS Developer.<br>
 And also an optimisitic, curious and well-focused developer. :sparkles: <br>
 
 
-I have done internships as a Frontend Developer [@LeapFrog Technology](https://www.lftechnology.com/) and currently working at[@Machnet Technologies](https://machnetinc.com/). 
+I have done internships as a Frontend Developer [@LeapFrog Technology](https://www.lftechnology.com/) and worked at[@Machnet Technologies](https://machnetinc.com/). 
 Besides coding, I like eating :yum: and sleeping :sleeping:
 
-- :man_technologist: Code: HTML, CSS, Sass, Bootstrap, JavaScript, TypeScript, React, React-Redux, Java Springboot.
+- :man_technologist: Code: HTML, CSS, Sass, Bootstrap, JavaScript, TypeScript, React, React-Redux, Figma, Java Springboot.
  
 <a href="https://www.linkedin.com/in/pasang-dorje-lama-0a0610130/">
   <img align="left" alt="Pasang's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
