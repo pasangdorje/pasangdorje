@@ -1,7 +1,6 @@
 <h2> Hi, I'm Pasang Dorje Lama! <img src="https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media.giphy.com/media/XymXANrzgI4k6FL6zr/giphy.gif" width="230">
-
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
 I am a React Frontend Developer.<br>
 And also an optimisitic, curious and well-focused developer. :sparkles: <br>
 
