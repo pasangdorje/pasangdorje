@@ -61,7 +61,7 @@
 <a href="https://github.com/pasangdorje" target="_blank">
   <img align="left" alt="Pasang's GitHub" src="https://img.icons8.com/bubbles/50/github.png"/>
 </a>
-<a href="mailto:pasangdorje.lama0930@gmail.com" target="_blank">
+<a href="mailto:pasangdorje.lama0930@gmail.com">
   <img align="left" alt="Pasang's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
 </a>
 <br clear="left"/>
