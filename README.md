@@ -11,9 +11,9 @@
 <h3>👨‍💻 About Me</h3>
 <ul>
   <li>💡 Optimistic, curious and detail-oriented developer with strong problem-solving skills.</li>
-  <li>🏢 Worked at <a href="https://machnetinc.com/">Machnet Technologies</a>, 
-      <a href="https://codavatar.com/">Codavatar Tech</a>, and 
-      <a href="https://www.lftechnology.com/">LeapFrog Technology</a>.</li>
+  <li>🏢 Worked at <a href="https://machnetinc.com/" target="_blank">Machnet Technologies</a>, 
+      <a href="https://codavatar.com/" target="_blank">Codavatar Tech</a>, and 
+      <a href="https://www.lftechnology.com/" target="_blank">LeapFrog Technology</a>.</li>
   <li>🔔 Experienced in building dashboards, fintech apps, and notification-driven systems.</li>
   <li>🌱 Currently exploring <b>Next.js 14</b> and <b>cloud-native architectures</b> with AWS & Azure.</li>
   <li>🍕 Outside of coding, I enjoy eating :yum: and sleeping :sleeping:.</li>
@@ -52,16 +52,16 @@
 
 <h3>📫 Connect with Me</h3>
 
-<a href="https://pasang-dorje-lama.netlify.app/">
+<a href="https://pasang-dorje-lama.netlify.app/" target="_blank">
   <img align="left" alt="Portfolio" src="https://img.icons8.com/bubbles/50/domain.png"/>
 </a>
-<a href="https://www.linkedin.com/in/pasang-dorje-lama-0a0610130/">
+<a href="https://www.linkedin.com/in/pasang-dorje-lama-0a0610130/" target="_blank">
   <img align="left" alt="Pasang's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 </a>
-<a href="https://github.com/pasangdorje">
+<a href="https://github.com/pasangdorje" target="_blank">
   <img align="left" alt="Pasang's GitHub" src="https://img.icons8.com/bubbles/50/github.png"/>
 </a>
-<a href="mailto:pasangdorje.lama0930@gmail.com">
+<a href="mailto:pasangdorje.lama0930@gmail.com" target="_blank">
   <img align="left" alt="Pasang's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
 </a>
 <br clear="left"/>
